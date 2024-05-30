@@ -1,7 +1,7 @@
 # AgroIndustry_BettergyData
 Repositorio de datos utilizados en las simulaciones del trabajo fin de Máster "Optimización de sistemas de generación fotovoltaica con almacenamiento". Los datasets utilizados están disponibles en ficheros en formato Excel y CSV.
 
-**REPOSITORIO: DATOS DE CONSUMO DE UNA GRAN INDUSTRIA AGROALIMENTARIA**
+**REPOSITORIO: DATOS DE CONSUMO Y GENERACIÓN DE UNA GRAN INDUSTRIA AGROALIMENTARIA**
 Este repositorio centraliza los datos de consumo energético de una gran industria agroalimentaria situada en Almería, recopilados y organizados para apoyar el estudio de sistemas de generación fotovoltaica con almacenamiento. La disponibilidad de estos datos en formatos accesibles permite realizar simulaciones detalladas y análisis exhaustivos que reflejan el comportamiento energético real de la industria. Los datos han sido provistos por la empresa BETTERGY.
 
 **MODELOS DE APLICACIÓN**
